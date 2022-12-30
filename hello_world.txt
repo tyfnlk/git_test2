@@ -1,5 +1,3 @@
-alphavet soup
-welcome to the league of draven
-we have figured out how to use cat
-this is getting more fun
-use cntrl d to stop
+Hello world
+git is hard to use :/
+
